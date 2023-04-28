@@ -8563,11 +8563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Área de Trabalho\\AtivDesenvolvimentoDeApis\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Área de Trabalho\\04c---Atividade-3-Criar-estrutura-da-API-com-Context-e-m-todo-GET-para-projetos-main\\Exo.WebApi.csproj",
       "projectName": "Exo.WebApi",
-      "projectPath": "C:\\Users\\franc\\OneDrive\\Área de Trabalho\\AtivDesenvolvimentoDeApis\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectPath": "C:\\Users\\franc\\OneDrive\\Área de Trabalho\\04c---Atividade-3-Criar-estrutura-da-API-com-Context-e-m-todo-GET-para-projetos-main\\Exo.WebApi.csproj",
       "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\franc\\OneDrive\\Área de Trabalho\\AtivDesenvolvimentoDeApis\\Exo.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\franc\\OneDrive\\Área de Trabalho\\04c---Atividade-3-Criar-estrutura-da-API-com-Context-e-m-todo-GET-para-projetos-main\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config"

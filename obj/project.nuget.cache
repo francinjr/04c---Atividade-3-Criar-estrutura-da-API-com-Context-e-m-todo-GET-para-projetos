@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zMJu85btQU/ddIsAT176bQ4aCrsmLZ1eemhBib9dGYpT0CvxawRaHHcre2W3exYa+HdXhT2lH4px7eRZFIExaw==",
+  "dgSpecHash": "ltTNFsJTeyVQ14eLr5H6DnvU0n4KeMfz5zBd9DNMB+yGgJAGPHppKkmtaPqAUnDv0vjv875bVDMTPDYnSlIFmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\franc\\OneDrive\\Área de Trabalho\\AtivDesenvolvimentoDeApis\\Exo.WebApi\\Exo.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\franc\\OneDrive\\Área de Trabalho\\04c---Atividade-3-Criar-estrutura-da-API-com-Context-e-m-todo-GET-para-projetos-main\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\franc\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\franc\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
